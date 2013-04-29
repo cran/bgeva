@@ -1,0 +1,27 @@
+desc <- packageDescription("geva")
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", desc$Date)
+vers <- paste(" R package version", desc$Version)
+
+citEntry(entry="Manual",
+title = "bgeva: Generalized Extreme Value Additive Modelling for binary rare events data",
+author = "Calabrese R., Marra G. and Osmetti S. A.",
+year = year,
+note = vers,
+textVersion =
+paste("Calabrese R, Marra G. and Osmetti S. A. (",year,"). bgeva: Generalized Extreme Value Additive Modelling for binary rare events data.",vers, ".", sep="")
+)
+#citEntry(
+#  entry="Article",
+#  title="Generalized Extreme Value Regression for Binary Rare Events Data: an Application to Credit Defaults",
+#  journal="X",
+#  volume= "X",
+#  number="X",
+#  pages="X",
+#  year="X", 
+#  author="Calabrese R. and Osmetti S. A.",
+#  textVersion="Calabrese R. and Osmetti S. A., Generalized Extreme Value Regression for Binary Rare Events Data: an Application to Credit Defaults. Submitted and available at http://ideas.repec.org/p/ucd/wpaper/201120.html."
+# )
+
+
+ 
+
