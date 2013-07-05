@@ -1,6 +1,15 @@
-exportPattern(".")
+export(bg.checks,
+bgeva.gIMa,
+bgeva.gIMb,
+bgeva,
+plot.bgeva,
+print.bgeva,
+print.summary.bgeva,
+S.m,
+summary.bgeva,
+working.comp)
 
-import(mgcv, trust)
+import(trust)
 importFrom(magic, adiag)
 
 S3method(plot, bgeva)

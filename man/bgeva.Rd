@@ -132,7 +132,7 @@ Maintainer: Giampiero Marra \email{giampiero.marra@ucl.ac.uk}
 
 \references{
 
-Calabrese R., Marra G., Osmetti S.A. (2013), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Generalized Extreme Value Model. \emph{Submitted}.
+Calabrese R., Marra G., Osmetti S.A. (2013), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Binary Generalized Extreme Value Model. \emph{Submitted}.
 
 Calabrese R., Osmetti S.A. (2013), Modelling SME Loan Defaults as Rare Events: The Generalized Extreme Value Regression Model. \emph{Journal of Applied Statistics}.
 
