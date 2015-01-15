@@ -16,7 +16,8 @@ product smooths.
 
 
 \usage{
-bgeva(formula.eq, data=list(), tau=-0.25, Hes=TRUE, gIM="a", iterlimSP=50, pr.tol=1e-6, 
+bgeva(formula.eq, data=list(), tau=-0.25, Hes=TRUE, gIM="a", iterlimSP=50, 
+                  pr.tol=1e-6, 
                   gamma=1, aut.sp=TRUE, fp=FALSE, start.v=NULL, start.vo=1, 
                   rinit=1, rmax=100, fterm=sqrt(.Machine$double.eps), 
                   mterm=sqrt(.Machine$double.eps),   

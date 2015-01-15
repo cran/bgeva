@@ -9,8 +9,10 @@ S.m,
 summary.bgeva,
 working.comp)
 
-import(trust)
+
 importFrom(magic, adiag)
+importFrom(trust,trust)
+import(mgcv)
 
 S3method(plot, bgeva)
 S3method(summary, bgeva)
