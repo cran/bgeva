@@ -11,6 +11,9 @@ spline bases are extracted from the package \code{mgcv}. Multi-dimensional smoot
 via the use of penalized thin plate regression splines (isotropic). The current implementation does not support scale invariant tensor 
 product smooths. 
 
+Consider also using the faster and more stable version implemented in the \code{gamlss()} function of the 
+\code{SemiParBIVProbit} package. \code{gamlss()} also allows for a much wider choice of smoothers.
+
 }
 
 
@@ -92,13 +95,10 @@ between smoothness
 and fitness is controlled by smoothing parameters associated with the penalty matrices. Smoothing parameters are chosen to 
 minimize the approximate Un-Biased Risk Estimator (UBRE).
 
-Automatic smoothing parameter selection is integrated 
-using a performance-oriented iteration approach (Gu, 1992; Wood, 2004). At each iteration, (i) the penalized weighted least squares 
-problem is solved, then (ii) the smoothing parameters of that problem estimated by approximate UBRE. Steps (i) and (ii) are iterated until 
-convergence.
+More details can be found in Calabrese, Marra and Osmetti (2016).
 
-Full details can be found in Calabrese, Marra and Osmetti (2013).
-
+Consider also using the faster and more stable version implemented in the \code{gamlss()} function of the 
+\code{SemiParBIVProbit} package. \code{gamlss()} also allows for a much wider choice of smoothers.
 
 }
 
@@ -133,9 +133,7 @@ Maintainer: Giampiero Marra \email{giampiero.marra@ucl.ac.uk}
 
 \references{
 
-Calabrese R., Marra G., Osmetti S.A. (2013), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Binary Generalized Extreme Value Model. \emph{Submitted}.
-
-Calabrese R., Osmetti S.A. (2013), Modelling SME Loan Defaults as Rare Events: The Generalized Extreme Value Regression Model. \emph{Journal of Applied Statistics}.
+Calabrese R., Marra G., Osmetti S.A. (2016), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Binary Generalized Extreme Value Model. \emph{Journal of the Operational Research Society}, 67(4), 604-615.
 
 Gu C. (1992), Cross validating non-Gaussian data. \emph{Journal of Computational and Graphical Statistics}, 1(2), 169-179.
 

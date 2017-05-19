@@ -21,6 +21,8 @@ individual smooth terms for equality to the zero function are also provided. Fun
 \code{\link{summary.bgeva}} extract such information from a fitted \code{\link{bgevaObject}}. Variable 
 selection is also possible via the use of shrinakge smoothers or information criteria. 
 
+Consider also using the faster and more stable version implemented in the \code{gamlss()} function of the 
+\code{SemiParBIVProbit} package. \code{gamlss()} also allows for a much wider choice of smoothers.
 
 }
 
@@ -33,9 +35,7 @@ Maintainer: Giampiero Marra \email{giampiero.marra@ucl.ac.uk}
 
 \references{
 
-Calabrese R., Marra G., Osmetti S.A. (2013), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Binary Generalized Extreme Value Model. \emph{Submitted}.
-
-Calabrese R., Osmetti S.A. (2013), Modelling SME Loan Defaults as Rare Events: The Generalized Extreme Value Regression Model. \emph{Journal of Applied Statistics}.
+Calabrese R., Marra G., Osmetti S.A. (2016), Bankruptcy Prediction of Small and Medium Enterprises Using a Flexible Binary Generalized Extreme Value Model. \emph{Journal of the Operational Research Society}, 67(4), 604-615.
 
 }
 

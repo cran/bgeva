@@ -1,5 +1,5 @@
 Package: bgeva
-Version: 0.3
+Version: 0.3-1
 Author: Giampiero Marra, Raffaella Calabrese and Silvia Angela Osmetti 
 Maintainer: Giampiero Marra <giampiero.marra@ucl.ac.uk>
 Title: Binary Generalized Extreme Value Additive Models
@@ -10,6 +10,6 @@ LazyLoad: yes
 License: GPL (>= 2)
 URL: http://www.ucl.ac.uk/statistics/people/giampieromarra
 Repository: CRAN
-Date/Publication: 2015-01-15 16:59:13
-Packaged: 2015-01-15 13:19:18 UTC; giampiero
+Date/Publication: 2017-05-19 06:07:36 UTC
+Packaged: 2017-05-18 19:03:43 UTC; Giampiero
 NeedsCompilation: no

@@ -41,6 +41,9 @@ biased rounding of the estimated degrees of freedom. See Wood (2013) for further
 
 Note that covariate selection can also be achieved using a single penalty shrinkage approach as shown in Marra and Wood (2011). 
 
+Consider also using the version of the model implemented in the \code{gamlss()} function of the 
+\code{SemiParBIVProbit} package, where p-value calculations are more rigorous.
+
 }
 
 

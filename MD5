@@ -1,6 +1,6 @@
-be9ac46366bd39477eace93754547904 *ChangeLog
-55c1c2ae7b1a30de3f42e5789edc2160 *DESCRIPTION
-6350b8c3f1c2c311d46f64c6697d8d35 *NAMESPACE
+76b9d97bddbd11c349547580453be44a *ChangeLog
+21bd953be079984e829c8a90a7330f58 *DESCRIPTION
+41e6b7617d981a1aab54d3b521c6bcd9 *NAMESPACE
 b2593317cf8967fcfcfa92f5618aa5a2 *R/S.m.r
 3af6fa54f2214b48cddd5135497d9f95 *R/bg.checks.r
 fc85e7bdf8c577b6a920341f467e4699 *R/bgeva.gIMa.r
@@ -15,13 +15,13 @@ e859a3a80ede54ece5cde23cb57892cf *R/bgeva.r
 bd629b99cfe37bd3a8f1112d25b7d1e5 *inst/CITATION
 f805f0029556a2eefcf4251f95ab48a7 *man/S.m.Rd
 99fe4e27346a6ddc99836952d003b188 *man/bg.checks.Rd
-92f423c946d315836388169759d7e3cf *man/bgeva-package.Rd
-4de62b57a1c9010e26d965abac28291d *man/bgeva.Rd
+e17f6370a6c4b7a0e81904d7e6ed3b7d *man/bgeva-package.Rd
+672aeed54dc7c51575872f813b134860 *man/bgeva.Rd
 8afe908cfa73c372e01371398e6365ef *man/bgeva.gIMa.Rd
 46fbf8eefd85a6395d5bb66127da8b1e *man/bgeva.gIMb.Rd
 44a822009172b169101e3c0ac3a349c5 *man/bgevaObject.Rd
 2902c76ac2b466d5a672e10ad383086c *man/plot.bgeva.Rd
 f3291ad60cf85a62fe3c9d60b767e330 *man/print.bgeva.Rd
 5a3685990ac25ef8299a5fed6b2200f6 *man/print.summary.bgeva.Rd
-89ed7daa9e34b1f8936cc01a3f8de829 *man/summary.bgeva.Rd
+9a29e1c1c4ae6004aac8539a91c80597 *man/summary.bgeva.Rd
 3228f683b2f38e37f11c35f617e7b7e8 *man/working.comp.Rd

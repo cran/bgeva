@@ -18,3 +18,5 @@ S3method(plot, bgeva)
 S3method(summary, bgeva)
 S3method(print, bgeva)
 S3method(print, summary.bgeva)
+
+importFrom(stats, binomial, coef, model.matrix, pchisq, pnorm, printCoefmat)
